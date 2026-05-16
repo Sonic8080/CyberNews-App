@@ -1,0 +1,2 @@
+-keep,allowobfuscation,allowshrinking class com.cachenews.ui.components.AiAssistantViewModel
+-keep,allowobfuscation,allowshrinking class com.cachenews.ui.components.AiAssistantViewModel

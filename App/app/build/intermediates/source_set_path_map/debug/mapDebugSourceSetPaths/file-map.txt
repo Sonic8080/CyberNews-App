@@ -1,0 +1,81 @@
+com.cachenews.app-datastore-preferences-release-0 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\0180a4db669369da9f21debee69f5e28\transformed\datastore-preferences-release\res
+com.cachenews.app-sqlite-2.4.0-1 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\020899f0f825e5ffff4377fe6e5dde03\transformed\sqlite-2.4.0\res
+com.cachenews.app-lifecycle-viewmodel-compose-release-2 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\026290e98e3c45858bf0b94dcabe6796\transformed\lifecycle-viewmodel-compose-release\res
+com.cachenews.app-hilt-navigation-compose-1.2.0-3 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\03db48de5b666551235d5e86e096dc79\transformed\hilt-navigation-compose-1.2.0\res
+com.cachenews.app-ui-unit-release-4 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\05466805f0aaa6dce0778ceb43b33069\transformed\ui-unit-release\res
+com.cachenews.app-graphics-path-1.0.1-5 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\0b85acc58abeb3bbfe16a21f4776556e\transformed\graphics-path-1.0.1\res
+com.cachenews.app-animation-release-6 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\0bd6f4fd36cdfadf42bd7927e6b02dc6\transformed\animation-release\res
+com.cachenews.app-customview-poolingcontainer-1.0.0-7 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\0dc36353933de0a1a51c2f3fc41d3187\transformed\customview-poolingcontainer-1.0.0\res
+com.cachenews.app-lifecycle-viewmodel-release-8 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\103677c8da0e1c3f724beb16162f66d5\transformed\lifecycle-viewmodel-release\res
+com.cachenews.app-navigation-runtime-ktx-2.8.4-9 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\1b60dbbd193e4e16596ba1c6cfa4975b\transformed\navigation-runtime-ktx-2.8.4\res
+com.cachenews.app-material3-release-10 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\1f56b956c5344537321f72044a996aae\transformed\material3-release\res
+com.cachenews.app-core-runtime-2.2.0-11 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\1fedd1a77cf4a0fd3b1a0100e21329ba\transformed\core-runtime-2.2.0\res
+com.cachenews.app-activity-ktx-1.9.3-12 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\218b5813cab94f95caa7b953bd932f80\transformed\activity-ktx-1.9.3\res
+com.cachenews.app-lifecycle-runtime-ktx-release-13 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\21e888c9e4d65cb28b54061e9cf4d865\transformed\lifecycle-runtime-ktx-release\res
+com.cachenews.app-annotation-experimental-1.4.1-14 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\25d2b736f45db6c96233ceca69b15a5d\transformed\annotation-experimental-1.4.1\res
+com.cachenews.app-lifecycle-process-2.8.7-15 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\2cb16e99ad324cc64fb218dfffcf2065\transformed\lifecycle-process-2.8.7\res
+com.cachenews.app-ui-text-release-16 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\2f08a2c84abd8954d512ea0a3eede02d\transformed\ui-text-release\res
+com.cachenews.app-hilt-work-1.2.0-17 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\33477d1560ccd7a3b1ff35ea35dfadc8\transformed\hilt-work-1.2.0\res
+com.cachenews.app-tracing-ktx-1.2.0-18 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\34d8000434538314784ba03da155231a\transformed\tracing-ktx-1.2.0\res
+com.cachenews.app-animation-core-release-19 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\36f9de749218bf54e77032e7edf34761\transformed\animation-core-release\res
+com.cachenews.app-ui-tooling-preview-release-20 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\3a28d74c62b53b79af09d244fe8cedc2\transformed\ui-tooling-preview-release\res
+com.cachenews.app-work-runtime-ktx-2.10.0-21 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\3ef3eea50bdbcb76ae0e2d525ca5047c\transformed\work-runtime-ktx-2.10.0\res
+com.cachenews.app-ui-util-release-22 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\4098642aa3ec41f7c7ae35e28db1846c\transformed\ui-util-release\res
+com.cachenews.app-material-release-23 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\43ed184e7244ef749dd552d72c876fc2\transformed\material-release\res
+com.cachenews.app-lifecycle-service-2.8.7-24 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\4bd4755c79a972d96778be40aab98a18\transformed\lifecycle-service-2.8.7\res
+com.cachenews.app-ui-geometry-release-25 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\4e868c01847fa173eb3f00baf319bd4b\transformed\ui-geometry-release\res
+com.cachenews.app-core-splashscreen-1.0.1-26 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\4e8b97f6e9e19d6d43f264692044a2a2\transformed\core-splashscreen-1.0.1\res
+com.cachenews.app-navigation-runtime-2.8.4-27 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\4fdf3f5cb325e0c15694aa3d773ff7cb\transformed\navigation-runtime-2.8.4\res
+com.cachenews.app-navigation-common-2.8.4-28 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\58c7675aa872ed430028d8462b42615a\transformed\navigation-common-2.8.4\res
+com.cachenews.app-startup-runtime-1.1.1-29 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\5c748d7a9089ac93b097abe9919c5124\transformed\startup-runtime-1.1.1\res
+com.cachenews.app-lifecycle-livedata-2.8.7-30 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\5d757b5c10e06be7318c48dadd27163e\transformed\lifecycle-livedata-2.8.7\res
+com.cachenews.app-ui-tooling-data-release-31 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\5f3ff990feaa80cb3f782d8e6158a8d6\transformed\ui-tooling-data-release\res
+com.cachenews.app-lifecycle-livedata-core-2.8.7-32 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\660af7f4798ff4479d34dd5d36f4c8fe\transformed\lifecycle-livedata-core-2.8.7\res
+com.cachenews.app-material-icons-extended-release-33 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\69a149324976cbf6810e3baa77c44639\transformed\material-icons-extended-release\res
+com.cachenews.app-room-runtime-2.6.1-34 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\6d2d23a47e916a4da56add2d7daf2525\transformed\room-runtime-2.6.1\res
+com.cachenews.app-savedstate-ktx-1.2.1-35 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\75313a1c82202831f51e742e4c2987fd\transformed\savedstate-ktx-1.2.1\res
+com.cachenews.app-foundation-release-36 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\77c8abd7c53fa588f3af1f2d5ec54336\transformed\foundation-release\res
+com.cachenews.app-foundation-layout-release-37 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\7ae7fc1b18885b9bbcf884b21a202e9d\transformed\foundation-layout-release\res
+com.cachenews.app-lifecycle-runtime-release-38 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\7d9e941e05482a3a1fa203b232a89352\transformed\lifecycle-runtime-release\res
+com.cachenews.app-datastore-core-release-39 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\7f46d345bf5e1bfe946b985ee22501b4\transformed\datastore-core-release\res
+com.cachenews.app-core-ktx-1.15.0-40 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\81fdb8a25b8fe9d692019649924dc31a\transformed\core-ktx-1.15.0\res
+com.cachenews.app-firebase-messaging-24.1.0-41 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\847a49faf62acc74cdd1fc2222150440\transformed\firebase-messaging-24.1.0\res
+com.cachenews.app-lifecycle-viewmodel-savedstate-2.8.7-42 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\8a049c02c1ad1b80a229b69f1db67fa2\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.cachenews.app-profileinstaller-1.3.1-43 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\8b4393cd772f5e37c5f930699b3d9270\transformed\profileinstaller-1.3.1\res
+com.cachenews.app-core-1.15.0-44 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\92e510f4aee9f7491e42d9ed054f085d\transformed\core-1.15.0\res
+com.cachenews.app-savedstate-1.2.1-45 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\93d4672a2331650f689ade37d405fd50\transformed\savedstate-1.2.1\res
+com.cachenews.app-runtime-release-46 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\9cbaf5875c4091d31cc3e55eaab3c9fe\transformed\runtime-release\res
+com.cachenews.app-play-services-basement-18.3.0-47 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\9dd8a837c56f65390d0979cde422119b\transformed\play-services-basement-18.3.0\res
+com.cachenews.app-appcompat-resources-1.6.1-48 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\a16681841c47ae3a5b8f76ba279d5115\transformed\appcompat-resources-1.6.1\res
+com.cachenews.app-material-icons-core-release-49 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\a5795678cb69b85c59c5cd9d14a3b222\transformed\material-icons-core-release\res
+com.cachenews.app-material-ripple-release-50 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\a6ce75d59c8266c2806c5dc9ed3ffa72\transformed\material-ripple-release\res
+com.cachenews.app-coil-base-2.7.0-51 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\aa7e19d7733c97235424bc0f7899d804\transformed\coil-base-2.7.0\res
+com.cachenews.app-sqlite-framework-2.4.0-52 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\ab7b437d580915abd193bd82225285db\transformed\sqlite-framework-2.4.0\res
+com.cachenews.app-tracing-1.2.0-53 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\abeeef12ddc611bb93a0b77e3d8f8171\transformed\tracing-1.2.0\res
+com.cachenews.app-work-runtime-2.10.0-54 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\acaf06bf038ce4051c0d93fe349e6a71\transformed\work-runtime-2.10.0\res
+com.cachenews.app-room-ktx-2.6.1-55 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\b34c3a409717d1c76d13f6b58be2cc4f\transformed\room-ktx-2.6.1\res
+com.cachenews.app-lifecycle-livedata-core-ktx-2.8.7-56 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\b3f83b3064ab9fd05cd06280c5f4acf9\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.cachenews.app-activity-1.9.3-57 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\b4e425c72c67e75d59da58d04082cd71\transformed\activity-1.9.3\res
+com.cachenews.app-ui-release-58 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\b7275440614e27e1dadff149fc2925a7\transformed\ui-release\res
+com.cachenews.app-emoji2-1.3.0-59 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\b95bb82e8ab5927dee1818e977c3d3ae\transformed\emoji2-1.3.0\res
+com.cachenews.app-play-services-base-18.0.1-60 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\bb789b66a8e3056e73c3f9ce788a5161\transformed\play-services-base-18.0.1\res
+com.cachenews.app-hilt-navigation-1.2.0-61 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\bf90730ea4ee87b6ef07c9b14d11ab16\transformed\hilt-navigation-1.2.0\res
+com.cachenews.app-firebase-common-21.0.0-62 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\c2e950b06c68bbc01232435f46b06190\transformed\firebase-common-21.0.0\res
+com.cachenews.app-navigation-common-ktx-2.8.4-63 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\cb18d278be5628bc5401a57077a6c7f2\transformed\navigation-common-ktx-2.8.4\res
+com.cachenews.app-navigation-compose-2.8.4-64 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\cfd979ea40a838310913cfdcbcff4a66\transformed\navigation-compose-2.8.4\res
+com.cachenews.app-fragment-1.5.1-65 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\db0ec832dc2072e72bfb73fd3d525ded\transformed\fragment-1.5.1\res
+com.cachenews.app-runtime-saveable-release-66 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\e55e67fc12196ff3c67588f4a651cffa\transformed\runtime-saveable-release\res
+com.cachenews.app-datastore-release-67 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\e8f241dc56938b110f1224542b5431fb\transformed\datastore-release\res
+com.cachenews.app-lifecycle-runtime-compose-release-68 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\ec530f2cf426a7cf88ad02995a27f4f2\transformed\lifecycle-runtime-compose-release\res
+com.cachenews.app-ui-tooling-release-69 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\f36113807fa11784a7378b0294e91544\transformed\ui-tooling-release\res
+com.cachenews.app-activity-compose-1.9.3-70 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\fd52bb611b762d87976b8b882bf789ef\transformed\activity-compose-1.9.3\res
+com.cachenews.app-ui-graphics-release-71 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\fe154c700b8b5df9be47c6f1a7234faf\transformed\ui-graphics-release\res
+com.cachenews.app-lifecycle-viewmodel-ktx-2.8.7-72 C:\Users\- Baheddin -\.gradle\caches\8.9\transforms\ff233097d6cc147789f71805d3711a00\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.cachenews.app-pngs-73 C:\Users\- Baheddin -\Desktop\androdi -newsv1\app\build\generated\res\pngs\debug
+com.cachenews.app-res-74 C:\Users\- Baheddin -\Desktop\androdi -newsv1\app\build\generated\res\processDebugGoogleServices
+com.cachenews.app-resValues-75 C:\Users\- Baheddin -\Desktop\androdi -newsv1\app\build\generated\res\resValues\debug
+com.cachenews.app-packageDebugResources-76 C:\Users\- Baheddin -\Desktop\androdi -newsv1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.cachenews.app-packageDebugResources-77 C:\Users\- Baheddin -\Desktop\androdi -newsv1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.cachenews.app-debug-78 C:\Users\- Baheddin -\Desktop\androdi -newsv1\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.cachenews.app-debug-79 C:\Users\- Baheddin -\Desktop\androdi -newsv1\app\src\debug\res
+com.cachenews.app-main-80 C:\Users\- Baheddin -\Desktop\androdi -newsv1\app\src\main\res

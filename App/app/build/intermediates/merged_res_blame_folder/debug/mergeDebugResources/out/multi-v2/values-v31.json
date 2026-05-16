@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cachenews.app-mergeDebugResources-76:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\- Baheddin -\\.gradle\\caches\\8.9\\transforms\\4e8b97f6e9e19d6d43f264692044a2a2\\transformed\\core-splashscreen-1.0.1\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+-keep,allowobfuscation,allowshrinking class com.cachenews.ui.components.AiAssistantViewModel
+-keep,allowobfuscation,allowshrinking class com.cachenews.ui.components.AiAssistantViewModel
+-keep,allowobfuscation,allowshrinking class com.cachenews.ui.detail.DetailViewModel
+-keep,allowobfuscation,allowshrinking class com.cachenews.ui.detail.DetailViewModel
+-keep,allowobfuscation,allowshrinking class com.cachenews.ui.feed.FeedViewModel
+-keep,allowobfuscation,allowshrinking class com.cachenews.ui.feed.FeedViewModel
+-keep,allowobfuscation,allowshrinking class com.cachenews.ui.settings.SettingsViewModel
+-keep,allowobfuscation,allowshrinking class com.cachenews.ui.settings.SettingsViewModel
+-keep,allowobfuscation,allowshrinking class com.cachenews.ui.start.StartViewModel
