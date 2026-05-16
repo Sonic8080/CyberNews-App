@@ -33,9 +33,10 @@ A modern, streamlined desktop application designed for cybersecurity professiona
 ____________________________________________________________________________________________________________________________________
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/017a499f-a35f-448f-82d4-ccd0026a1729" alt="1" width="18%" />
-  <img src="https://github.com/user-attachments/assets/128b7206-ca3a-4cc3-8d27-4f5b9886490e" alt="2" width="18%" />
-  <img src="https://github.com/user-attachments/assets/96acb0c8-657b-4ab9-a635-f0bab550fa66" alt="3" width="18%" />
-  <img src="https://github.com/user-attachments/assets/81bd87a0-8ccd-4394-92cd-d1cc3d81b835" alt="4" width="18%" />
-  <img src="https://github.com/user-attachments/assets/cc205e6b-b225-47c1-bef6-8571a376c36d" alt="5" width="18%" />
+  <img src="https://github.com/user-attachments/assets/017a499f-a35f-448f-82d4-ccd0026a1729" alt="1" width="160" />
+  <img src="https://github.com/user-attachments/assets/128b7206-ca3a-4cc3-8d27-4f5b9886490e" alt="2" width="160" />
+  <img src="https://github.com/user-attachments/assets/96acb0c8-657b-4ab9-a635-f0bab550fa66" alt="3" width="160" />
+  <img src="https://github.com/user-attachments/assets/81bd87a0-8ccd-4394-92cd-d1cc3d81b835" alt="4" width="160" />
+  <img src="https://github.com/user-attachments/assets/cc205e6b-b225-47c1-bef6-8571a376c36d" alt="5" width="160" />
+  <img src="https://github.com/user-attachments/assets/4e23fa6e-1f5a-4147-b022-e40902843ccd" alt="6" width="160" />
 </p>
